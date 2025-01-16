@@ -1,6 +1,6 @@
 # NASA Simulation App
 
-A web application built using **Django** for simulating and practicing various challenges related to the NASA Space Apps Hackathon.
+A web application built using **Django** for simulating and practicing various challenges related to the NASA Space Apps' Hackathon.
 The project aims to provide a basic overview of how we collaborate during an online hackathon.
 
 ---
